@@ -1,0 +1,10 @@
+body{background-color: rgb(197, 141, 250);
+color: rgb(0, 0, 0);}
+input{background-color: rgb(199, 154, 241);
+    color:rgb(203, 113, 233)
+    text-align:center; 
+    text-tranform:uppercase;
+    border-style:double;
+    border-width: 5px;
+    border-color:black;
+    }
